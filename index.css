@@ -19,10 +19,6 @@ body {
 
 }
 
-nav {
-display: inline;
-}
-
 .row {
     text-align: center; 
     display: flow-root;
@@ -43,7 +39,7 @@ display: inline;
     
 }
 
-p {
+.textBox {
     box-sizing: border-box;
     background-color: ghostwhite;
     padding-top: 1rem;
