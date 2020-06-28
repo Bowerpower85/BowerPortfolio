@@ -8,6 +8,7 @@ body {
     opacity: .9;
     padding-bottom: 2rem;
     padding-top: 2rem;
+    margin-bottom: 0rem;
 }
 .name {
     box-sizing: border-box;
@@ -31,21 +32,14 @@ body {
     font-weight: 600;
     color: black;
     background-color: #555151;
-    /* opacity: .5; */
     margin-right: 4rem;
     margin-left: 4rem; 
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     padding-bottom: 1rem; 
 }
 
 .column-6-sm {
-    /* text-align: center; 
-    display: flow-root;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 600;
-    color: black; */
     background-color: #555151;
-    /* opacity: .5; */
     margin-right: 1rem;
     margin-left: 1rem; 
     flex-wrap: wrap;
@@ -54,4 +48,12 @@ body {
 img {
     vertical-align: initial;
     flex-wrap: wrap;
+}
+
+.column-12-sm {
+    flex-shrink: inherit;
+    background-color: ghostwhite;
+    opacity: .9;
+    margin-top: .3rem;
+    text-align: center;
 }

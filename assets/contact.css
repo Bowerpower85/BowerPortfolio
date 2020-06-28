@@ -19,7 +19,7 @@ body {
     padding-top: 10px;
 
 }
-
+/* A tab that allows user to send in contact information */
 .contactTab {
     width: 58%;
     max-width: 600px;
@@ -40,7 +40,7 @@ body {
     margin-top: 0;
     font-weight: 500;
 }
-
+/* A textarea where user can leave a message  */
 .textB {
     border: 1px solid gray;
     margin: 8px 0;
@@ -63,7 +63,7 @@ body {
     font-size: 18px;
     margin-top: 6px;
 }
-
+/* A button to connect with a future active backend database */
 .btn {
     display: block;
     background: #b11c1c;
@@ -73,4 +73,12 @@ body {
     cursor: pointer;
     margin-top: 8px;
     width: 100%;
+}
+
+.column-12-sm {
+    flex-shrink: inherit;
+    background-color: ghostwhite;
+    opacity: .9;
+    margin-top: .3rem;
+    text-align: center;
 }

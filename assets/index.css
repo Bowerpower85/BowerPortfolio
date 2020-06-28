@@ -3,6 +3,7 @@ body {
     background-size: cover; 
     
 }
+/* Bootstrap feature to create divided h1 */
 .jumbotron {
     background-color: #ff90;
     opacity: .9;
@@ -13,12 +14,13 @@ body {
     box-sizing: border-box;
     background-color: #555151;
     color: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
     padding-left: 15px;
     padding-bottom: 15px;
     padding-top: 10px;
 
 }
-
+/* flow-root is keeping text aligned in the center (How)? */
 .row {
     text-align: center; 
     display: flow-root;
@@ -33,26 +35,23 @@ body {
 }
 
 .column-4-sm {
-    display: inline-flex;
-    margin-left: 15px;
-    margin-right: 15px
-    
-}
-
-.textBox {
     box-sizing: border-box;
     background-color: ghostwhite;
     padding-top: 1rem;
     padding-right: 1rem;
     padding-left: 1rem;
-    opacity: .5;
+    padding-bottom: 2rem;
     margin-bottom: 0rem;
 }
 
-footer {
-    box-sizing: border-box;
+img {
+    padding-right: .5rem;
+}
+
+.column-12-sm {
+    flex-shrink: inherit;
     background-color: ghostwhite;
-    opacity: .5;
-    margin-top: 13rem;
+    opacity: .9;
+    margin-top: 4rem;
     text-align: center;
 }
