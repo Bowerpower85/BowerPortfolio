@@ -1,5 +1,5 @@
 body {
-    background-image: url("/assets/snowyMtn.JPG");
+    background-image: url("./images/snowyMtn.JPG"); 
     background-size: cover; 
     
 }
@@ -34,7 +34,7 @@ body {
     
 }
 
-.column-4-sm {
+.column-9-sm {
     box-sizing: border-box;
     background-color: ghostwhite;
     padding-top: 1rem;
@@ -42,10 +42,6 @@ body {
     padding-left: 1rem;
     padding-bottom: 2rem;
     margin-bottom: 0rem;
-}
-
-img {
-    padding-right: .5rem;
 }
 
 .column-12-sm {
