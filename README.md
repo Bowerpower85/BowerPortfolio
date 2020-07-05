@@ -2,4 +2,4 @@ A bio website for Jonathan Bower. It was created to allow the owner to showcase 
 Bootstrap was leveraged throughout the website to provide some structure and style. Most of it was used in the h1 using Jumbotron and a navbar. The contact page was inspired by Darkcode youtube channel, https://youtu.be/f0DcnrpeBv8.
  https://bowerpower85.github.io/BowerPortfolio/
  
- <img src="assets/images/Screen Shot 2020-07-04 at 6.48.06 PM.png" alt="bio webpage image" width="400px" height="400px">
+ <img src="assets/images/Screen Shot 2020-07-04 at 6.48.06 PM.png" alt="bio webpage image" width="600px" height="400px">
