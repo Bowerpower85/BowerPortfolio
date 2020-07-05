@@ -44,6 +44,11 @@ body {
     margin-bottom: 0rem;
 }
 
+img {
+    float: left;
+    padding-right: 1rem;
+}
+
 .column-12-sm {
     flex-shrink: inherit;
     background-color: ghostwhite;
