@@ -1,5 +1,5 @@
 body {
-    background-image: url(".assets/images/cherryBlossom.jpg");
+    background-image: url("./images/cherryBlossom.jpg");
     background-size: cover; 
     
 }
@@ -82,3 +82,4 @@ body {
     margin-top: 37rem;
     text-align: center;
 }
+
